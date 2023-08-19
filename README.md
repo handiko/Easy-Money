@@ -29,6 +29,6 @@ Easy Money Forex Strategy
 
 ### Result
 quick backtest:
-![](./result_AUDCHF_H4.jpg)
+![](./result_AUDCHF_H4.png)
 
 (under construction)
