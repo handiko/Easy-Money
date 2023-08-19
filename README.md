@@ -66,6 +66,6 @@ quick backtest (Jan 2020 - Aug 2023):
 
 ### Result
 quick backtest (Jan 2020 - Aug 2023):
-![](./result_AUDCHF_H4.png)
+![](./result_GBPJPY_H4.png)
 
 (under construction)
