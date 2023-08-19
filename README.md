@@ -1,2 +1,2 @@
-# Easy-Money
+# Easy Money
 Easy Money Forex Strategy
