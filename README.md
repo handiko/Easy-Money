@@ -25,6 +25,10 @@ Easy Money Forex Strategy
 - place stop loss just above the highest high of the three last candles
 
 ### Example
-![](./AUDCHF.png)
+![](./AUDCHF_H4.png)
 
 ### Result
+quick backtest:
+![](./result_AUDCHF_H4.jpg)
+
+(under construction)
