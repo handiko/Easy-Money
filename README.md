@@ -33,7 +33,7 @@ Easy Money Forex Strategy
 ![](./AUDCHF_H4.png)
 
 ### Result
-quick backtest:
+quick backtest (Jan 2020 - Aug 2023):
 ![](./result_AUDCHF_H4.png)
 
 (under construction)
